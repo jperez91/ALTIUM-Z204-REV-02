@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [9-10-00203-3_REV02_062018.PcbDoc]
+   Generated File[Pick Place for 9-10-00203-3_REV02_062018.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:10:27 PM On 7/27/2018

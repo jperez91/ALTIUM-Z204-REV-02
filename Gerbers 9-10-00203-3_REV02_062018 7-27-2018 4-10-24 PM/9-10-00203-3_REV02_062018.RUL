@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\juan.perez\Desktop\ALTIUM Z204 REV 02\9-10-00203-3_REV02_062018.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width~Sunstone Circuits|Scope=Board|Minimum=3.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion~Sunstone Circuits|Scope=Board|Minimum=2.76
+RuleKind=ShortCircuit|RuleName=ShortCircuit~Sunstone Circuits|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing~Sunstone Circuits|Scope=Board|Minimum=4.92

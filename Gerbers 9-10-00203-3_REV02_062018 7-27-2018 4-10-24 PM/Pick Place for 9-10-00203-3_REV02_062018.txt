@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\juan.perez\Desktop\ALTIUM Z204 REV 02\Gerbers 9-10-00203-3_REV02_062018 7-27-2018 4-10-24 PM\Pick Place for 9-10-00203-3_REV02_062018.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/07/18
+Time:       16:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                     Layer       Footprint                   Center-X(mm) Center-Y(mm) Rotation Description                                          
+Q1         DMC21D1UDA                  TopLayer    DMC21D1UDA                  5.7786       2.4498       90       "COMPLEMENTARY PAIR ENHANCEMENT MODE MOSFET"         
+TP2        Vout                        TopLayer    PAD_1.5MM_X_0.5MM           5.0000       0.3500       360      BAT+                                                 
+TP1        BAT+                        TopLayer    PAD_1.5MM_X_0.5MM           5.0000       1.1500       360      BAT+                                                 
+U4         MKL03Z32CAF4R               BottomLayer MKL03Z32CBF4R               3.6002       1.3700       90       "Kinetis Kl03: 48MHz Cortex-M0+ Ultra low power MCU" 
+U1         "AS3953B-BTWM NFX Rx IC"    BottomLayer 10-WLCSP                    1.5000       1.6000       90       "IC NFC INTERFACE 14443A LEVEL4"                     
+R5         243K                        TopLayer    RES0603X03L(0201)           2.0750       0.7500       180      "RES SMD 243K OHM 1% 1/20W 0201"                     
+R4         24.3K                       TopLayer    RES0603X03L(0201)           2.3000       1.4250       270      "RES SMD 24.3K OHM 1% 1/20W 0201"                    
+R3         69.8K                       TopLayer    RES0603X03L(0201)           1.6250       1.2000       180      "RES SMD 69.8K OHM 1% 1/20W 0201"                    
+R2         100                         BottomLayer RES0603X03L(0201)           2.0750       0.3000       360      "RES SMD 100 OHM 0.1% 1/20W 0201"                    
+C11        2.2uF                       BottomLayer CAPC0603X03L(0201)          5.9000       0.8500       180      "CAP CER 2.2UF 6.3V X5R 0201"                        
+C7         2.2uF                       BottomLayer CAPC0603X03L(0201)          5.9000       1.3000       180      "CAP CER 2.2UF 6.3V X5R 0201"                        
+C6         2.2uF                       BottomLayer CAPC0603X03L(0201)          3.8500       2.8000       180      "CAP CER 2.2UF 6.3V X5R 0201"                        
+C5         470nF                       TopLayer    CAPC0603X03L(0201)          1.6250       1.6500       360      "CAP CER 0.47UF 4V X5R 0201"                         
+C4         47nF                        TopLayer    CAPC0603X03L(0201)          2.0000       0.3000       180      "CAP CER 0.047UF 16V X5R 0201"                       
+R1         5.1k                        BottomLayer RES1005X06L_(0402_Imperial) 0.3250       1.5497       270      "RES SMD 5.1KOHM 0.25% 1/16W 0402"                   
+D4         497-15253-1-ND              BottomLayer BAT30F4                     0.4750       2.5750       90       "DIODE SCHOTTKY"                                     
+D3         497-15253-1-ND              TopLayer    BAT30F4                     0.9500       1.5500       270      "DIODE SCHOTTKY"                                     
+D2         497-15253-1-ND              BottomLayer BAT30F4                     0.5000       0.5500       270      "DIODE SCHOTTKY"                                     
+D1         497-15253-1-ND              TopLayer    BAT30F4                     0.6500       2.2250       180      "DIODE SCHOTTKY"                                     
+C3         220pF                       TopLayer    CAPC0603X03L(0201)          0.5000       1.5500       270      Capacitor                                            
+C2         2.2uF                       BottomLayer CAPC0603X03L(0201)          1.2500       2.7500       360      "CAP CER 2.2UF 6.3V X5R 0201"                        
+C1         2.2uF                       TopLayer    CAPC0603X03L(0201)          1.2500       2.4500       90       "CAP CER 2.2UF 6.3V X5R 0201"                        
+D5         GDZ4V7LP3-7DICT-ND          TopLayer    DFN35P61X30-2N              0.6500       2.6750       180      "DIODE ZENER 4.7V 250MW 2DFN"                        
+R6         220K                        TopLayer    RES0603X03L(0201)           6.0000       1.3250       0        "RES SMD 220K OHM 1% 1/20W 0201"                     
+Q2         CSD23280F3                  TopLayer    CSD23280F3                  6.0000       0.6640       270      "MOSFET P-CH -12V"                                   
+TP3        BAT-                        TopLayer    BAT-                        3.4500       2.4300       0        BAT+                                                 
+U3         ZPA125CSP                   BottomLayer BGA12C30P4X4_138X138X38     5.4000       2.3000       90       ""                                                   
+U2         "2.5V LDO 450mA non-active" TopLayer    BGA4x2                      1.8750       2.5750       0        "LDO Voltage Regulators CSP LDO 450MA NON-ACTIVE"    

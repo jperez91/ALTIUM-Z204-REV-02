@@ -1,0 +1,387 @@
+*************************************************************
+FileName = 9-10-00203-3_REV02_062018.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : 9-10-00203-3_REV02_062018.GD1
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Drill Pair : Layer 1 (Top)-Layer 4 (bottom)
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 9-10-00203-3_REV02_062018.GD2
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Drill Pair : Layer 3-Layer 4 (bottom)
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 9-10-00203-3_REV02_062018.GG1
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Drill Pair : Layer 1 (Top)-Layer 4 (bottom)
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 9-10-00203-3_REV02_062018.GG2
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Drill Pair : Layer 3-Layer 4 (bottom)
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D71
+*************************************************************
+
+*************************************************************
+Generating : PWB Outline
+      File : 9-10-00203-3_REV02_062018.GM1
+
+    Adding Layer      : PWB Outline
+
+    Adding Layer      : Artwork Graphics
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 9-10-00203-3_REV02_062018.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Layer 1 (Top)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : 9-10-00203-3_REV02_062018.G1
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 9-10-00203-3_REV02_062018.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Layer 4 (bottom)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D38
+    D39
+    D43
+    D55
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Layer 1 (Top)
+      File : 9-10-00203-3_REV02_062018.GTL
+
+    Adding Layer      : Layer 1 (Top)
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 9-10-00203-3_REV02_062018.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Layer 4 (bottom)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D25
+    D26
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Layer 4 (bottom)
+      File : 9-10-00203-3_REV02_062018.GBL
+
+    Adding Layer      : Layer 4 (bottom)
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D20
+    D25
+    D26
+    D47
+    D48
+    D49
+    D51
+    D52
+    D53
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 9-10-00203-3_REV02_062018.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Layer 1 (Top)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : 9-10-00203-3_REV02_062018.G2
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Artwork Graphics
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D20
+    D51
+    D55
+    D56
+*************************************************************
+
